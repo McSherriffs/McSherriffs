@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, baking, and singing
 - 🌱 I’m currently learning SQL for a Software Developers Apprenticeship
 - 💞️ I’m looking to collaborate on any SQL based projects to help get experience in writing the code
-- 📫 How to reach me not sure yet....working out github!!
+- 📫 
 
 <!---
 McSherriffs/McSherriffs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
